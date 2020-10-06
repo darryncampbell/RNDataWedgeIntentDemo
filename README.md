@@ -1,3 +1,6 @@
+*Please be aware that this application / sample is provided as-is for demonstration purposes without any guarantee of support*
+=========================================================
+
 # RNDataWedgeIntentDemo
 React Native example application demonstrating react-native-datawedge-intents module
 
